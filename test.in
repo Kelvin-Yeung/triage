@@ -1,0 +1,9 @@
+ENQ 5 Jane_Doe
+ENQ 5 Mister_T
+DEQ
+ENQ 4 Dorothy_Gale
+ENQ 6 Linus_Thorvalds
+FRONT
+PRINT
+PRINT_REV
+DEQ
